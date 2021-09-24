@@ -1,4 +1,4 @@
-%% Script for implementing and managing a Real-time Human-robot collaborative assembly process
+%% Script for implementing and managing an online Human-robot collaborative assembly process
 %
 % by Pedro Garcia, August of 2021
 %
