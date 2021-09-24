@@ -12,7 +12,7 @@ clear
 clc
 imaqreset
 
-%Establish conection to ROS Master and ROS Action Client, load the trained YOLOv3 multi-object detector (11 classes)
+%Establish connection to ROS Master and ROS Action Client, load the trained YOLOv3 multi-object detector (11 classes)
 load('C:\Users\Pedro G\Desktop\Tese\Development\Algorithms\YOLO\YOLOv3_DarkNet53_Trained.mat','yolov3Detector','inputSize');
 YOLOv3 = yolov3Detector;
 imgSz = inputSize(1,1:2); %Input size of the input layer of the YOLOv3 detector
