@@ -1,4 +1,4 @@
-## Deployment of a Human-Robot-Collaborative assembly environment --> Master's Thesis in Mechanical Engineering, September 2021
+## Deployment of a Human-Robot-Collaborative assembly environment --> Master's Thesis in Mechanical Engineering, October 2021
 
 Hi, I am Pedro and welcome to the github repository where all the files used for the development of my Master's Thesis will be shared.
 The goal of this work was to create a Human-Robot Collaborative (HRC) assembly environment, where a robotic arm had the ability to "see" its surroundings in order to safely teamwork with a human in the assembly process of a mechanical component.
