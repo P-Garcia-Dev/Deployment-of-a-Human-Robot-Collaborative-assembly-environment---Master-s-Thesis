@@ -8,7 +8,7 @@ The goal of this work was to create a Human-Robot Collaborative (HRC) assembly e
 
 ## Demonstration Video
 
-A demonstration video of HRC assembly environment in action can be accessed here (available in 1080p HD): [Demo Video](https://drive.google.com/file/d/1dm0TF7PWZYt1xAQz2TjbWK4k832VvJIb/view)
+A demonstration video of HRC assembly environment in action can be accessed here (available in 1080p HD): [Demo Video]([https://drive.google.com/file/d/1dm0TF7PWZYt1xAQz2TjbWK4k832VvJIb/view](https://drive.google.com/file/d/1yc39Kkv7N6_zWGzytsVGpFLGxXBaBwr-/view?usp=sharing))
 
 ## Further files
 * Get the entire unlabelled Dataset here: [DATASET](https://drive.google.com/drive/folders/1EyPcvHgLtMx68qH2opfdCQB7vPRv1_NR?usp=sharing)
